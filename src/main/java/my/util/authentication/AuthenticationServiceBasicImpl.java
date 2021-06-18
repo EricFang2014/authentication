@@ -1,9 +1,9 @@
 package my.util.authentication;
 
-import com.nirvanainfo.common.util.encrypt.Encrypt;
-import com.nirvanainfo.common.util.encrypt.EncryptImpl;
-import com.nirvanainfo.common.util.web.User;
-import com.nirvanainfo.common.util.web.WebUtil;
+import com.usadata.common.util.encrypt.Encrypt;
+import com.usadata.common.util.encrypt.EncryptImpl;
+import com.usadata.common.util.web.User;
+import com.usadata.common.util.web.WebUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
